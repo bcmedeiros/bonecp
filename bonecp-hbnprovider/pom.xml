@@ -102,7 +102,7 @@
         <dependency>
             <groupId>com.jolbox</groupId>
             <artifactId>bonecp</artifactId>
-            <version>0.7.2-SNAPSHOT</version>
+            <version>0.7.2-20121226</version>
         </dependency>
     </dependencies>
 
